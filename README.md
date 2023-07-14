@@ -7,8 +7,12 @@
  - Jswing
  - SQL
 ## Snapshots:
+
 ### Login Page:
-![image](https://github.com/Thanmai24/Bank_Management_System/assets/91211481/8d81eea7-b1bf-4f0f-bf7a-afe4d79fb78a)
+<img src = "https://github.com/Thanmai24/Bank_Management_System/blob/main/images/login.png" alt=""/>
+
+### Signup Page:
+<img src="https://github.com/Thanmai24/Bank_Management_System/blob/main/images/signup1.png" alt="" />
 
 
 
